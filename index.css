@@ -1,0 +1,125 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 62,5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.header{
+    text-align: center;
+}
+
+.header nav a {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+}
+
+.header nav a:first-child {
+    background-color: #FF764E;
+    margin-right: 20%;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.header nav a:nth-child(2) {
+    background-color: #5ED3EB;
+    margin-right: 20%;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.header nav a:last-child {
+    background-color: #FFCD69;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.GirisFoto img{
+    display: inline-block;
+    border-radius: 70%;
+    width: 180px;
+    height: 180px;
+    margin-left: 4rem;
+    margin-top: 4rem;
+}
+
+.Baslık {
+    text-align: center;
+    margin-top: -11rem;
+
+}
+
+h1 {
+    font-family: 'Chelsea Market', cursive;
+    font-size: 2rem;
+}
+
+.P1, P2{
+    padding: 0 0 0 0;
+}
+
+.Acıklama {
+    margin-top: 4rem;
+    background-color: #DDB9A3;
+    text-align: center;
+}
+
+.OrtaFoto {
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.OrtaParagraf {
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.SonFoto {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.SonParagraf {
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.footer img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 13rem;
+    padding: 0 0 2rem 0;
+}
+
+.footer nav a{
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+}
+
+.footer nav a:first-child {
+    background-color: #FF764E;
+    margin-right: 25%;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.footer nav a:nth-child(2) {
+    background-color: #5ED3EB;
+    margin-right: 25%;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.footer nav a:last-child {
+    background-color: #FFCD69;
+    padding: 15px;
+    border-radius: 10px;
+}
